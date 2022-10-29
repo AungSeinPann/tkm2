@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MYANMAR C+", Thukhuma 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941739&extension=ts&play_token=EsigBOh3mS
